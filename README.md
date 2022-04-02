@@ -34,5 +34,5 @@ Burned some time I should've probably been working on this by responding to some
 
 ## Day 1
 
-17:20
+17:20  
 Heck! I slept forever and getting up is hard. I have half the compo to get this playable. Lots to do, lots to do~
