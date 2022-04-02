@@ -16,3 +16,6 @@ I've done my first ["I'm In" post](https://ldjam.com/events/ludum-dare/50/$27996
  - The window is collapsing from one side, prevent it for as long as you can. You're a little character on a tile world of some sort- side scrolling or top-down. How do you prevent the window closing? I was thinking you wedge some stuff between it and some pre-existing level geometry. How does this stop working? What prevents you from keeping it open forever? Does pressure slowly build up and you barricades break? Is this fun?
 
  - A sinking submarine. You've had a breach and your fuel pumps have died. You have a backup pump, only one. Manage your sole pump to send water overboard and fuel into your generators. Your crew need rest, too.
+
+ 23:01  
+ Okay! I have figured out my idea. I'm going to go with the second one, the window collapsing, and it'll be great. A sidescroller where you use things around the level to prop up the window. They all have a strength and you have to keep up as long as you can. Maybe there'll eventually be a way to raise it back up a little. A little bottle jack? Mmmmm.
