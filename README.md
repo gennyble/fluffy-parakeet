@@ -9,10 +9,10 @@ I've done my first ["I'm In" post](https://ldjam.com/events/ludum-dare/50/$27996
 
 20:02 - The theme is Delay The Inevitable and oh gosh. Okay, have to think of ideas. Time to shower!
 
-20:51 - Showered forever, here are some ideas:
+20:51 - Showered forever, here are some ideas: *(do we not get GitHub style task buttons in readme?? `- []`)*
 
- - [] Winter campsite, you're alone. A huge blizzards happens and you have to delay your inevitable death. Manage your tiredness, food, and fire to stay alive. This is not my favorite.
+ - Winter campsite, you're alone. A huge blizzards happens and you have to delay your inevitable death. Manage your tiredness, food, and fire to stay alive. This is not my favorite.
 
- - [] The window is collapsing from one side, prevent it for as long as you can. You're a little character on a tile world of some sort- side scrolling or top-down. How do you prevent the window closing? I was thinking you wedge some stuff between it and some pre-existing level geometry. How does this stop working? What prevents you from keeping it open forever? Does pressure slowly build up and you barricades break? Is this fun?
+ - The window is collapsing from one side, prevent it for as long as you can. You're a little character on a tile world of some sort- side scrolling or top-down. How do you prevent the window closing? I was thinking you wedge some stuff between it and some pre-existing level geometry. How does this stop working? What prevents you from keeping it open forever? Does pressure slowly build up and you barricades break? Is this fun?
 
- - [] A sinking submarine. You've had a breach and your fuel pumps have died. You have a backup pump, only one. Manage your sole pump to send water overboard and fuel into your generators. Your crew need rest, too.
+ - A sinking submarine. You've had a breach and your fuel pumps have died. You have a backup pump, only one. Manage your sole pump to send water overboard and fuel into your generators. Your crew need rest, too.
