@@ -19,3 +19,6 @@ I've done my first ["I'm In" post](https://ldjam.com/events/ludum-dare/50/$27996
 
  23:01  
  Okay! I have figured out my idea. I'm going to go with the second one, the window collapsing, and it'll be great. A sidescroller where you use things around the level to prop up the window. They all have a strength and you have to keep up as long as you can. Maybe there'll eventually be a way to raise it back up a little. A little bottle jack? Mmmmm.
+
+ 23:24  
+ thank you for the star, I live off of small bursts of dopamine apparently *(narrator: she's been broken by social media)*
