@@ -32,5 +32,7 @@ We have a window! Perhaps Rust was,,, not the best choice, but it'll be fun! It 
 03:34  
 Burned some time I should've probably been working on this by responding to some emails and doing other things. Structured procrastination is a hell of a thing! Maybe I'll even finish my resume tomorrow like some sort of person that *does* things! As long as I get the game to a happy state, too, I think I'll be happy. It even has a title now, kind of. I'm calling it Collapse for the time being. It's set in the code *(only in like, two places)* so now it is forever.
 
+## Day 1
+
 17:20
 Heck! I slept forever and getting up is hard. I have half the compo to get this playable. Lots to do, lots to do~
