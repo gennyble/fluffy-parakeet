@@ -25,3 +25,6 @@ I've done my first ["I'm In" post](https://ldjam.com/events/ludum-dare/50/$27996
 
  23:50  
  Ahh okay! Did some planning in my notebook, I want to get a window up today and maybe even some stuff rendered on the screen. I'll probably pull some code out of [notsure](https://github.com/gennyble/notsure) but like, that's how I do a lot of programming, right? Reading past code instead of docs. This isn't not allowed, right? I don't care, goal to make a thing and I'm making a bloody thing! ^^
+
+ 01:01 - f0fe373  
+We have a window! Perhaps Rust was,,, not the best choice, but it'll be fun! It *has* been fun! Just a lot of boilerplate. Rust with more crates might be better.
