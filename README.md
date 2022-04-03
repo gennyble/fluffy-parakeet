@@ -42,3 +42,6 @@ Oooooooh. Compo rules say "You’re free to start with any base-code you may hav
 
 19:39  
 I hate just copying code out of notsure. It feels wrong and bad. I should just make an engine but I have *no time*. Perhaps I should fall back to Extra and make a little engine. I'm not sure how to engineify this, though, because, like, I still want control over everything. I don't know I don't know I don't know.
+
+00:05  
+I spent some time *(too much, she thinks)* clearing my head and I'm not sure I can make the compo but fuck I'm going to make this thing and it'll be great. I'm not sure how much of a game it'll be, but uh, it'll be something for sure.
