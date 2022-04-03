@@ -39,3 +39,6 @@ Heck! I slept forever and getting up is hard. I have half the compo to get this 
 
 19:28  
 Oooooooh. Compo rules say "You’re free to start with any base-code you may have." Fucking, hell yeah. I was doing it anyway, really.
+
+19:39  
+I hate just copying code out of notsure. It feels wrong and bad. I should just make an engine but I have *no time*. Perhaps I should fall back to Extra and make a little engine. I'm not sure how to engineify this, though, because, like, I still want control over everything. I don't know I don't know I don't know.
