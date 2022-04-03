@@ -45,3 +45,6 @@ I hate just copying code out of notsure. It feels wrong and bad. I should just m
 
 00:05  
 I spent some time *(too much, she thinks)* clearing my head and I'm not sure I can make the compo but fuck I'm going to make this thing and it'll be great. I'm not sure how much of a game it'll be, but uh, it'll be something for sure.
+
+05:00  
+I've done nothing on this and that's okay. I'll try for Extra. It's time to build a little engine. I *do* want to make this little game still, I think it'll be cute, but maybe not now. In a week or two. Or longer. If I miss Extra that's okay. Everything will be okay.
