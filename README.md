@@ -36,3 +36,6 @@ Burned some time I should've probably been working on this by responding to some
 
 17:20  
 Heck! I slept forever and getting up is hard. I have half the compo to get this playable. Lots to do, lots to do~
+
+19:28  
+Oooooooh. Compo rules say "You’re free to start with any base-code you may have." Fucking, hell yeah. I was doing it anyway, really.
